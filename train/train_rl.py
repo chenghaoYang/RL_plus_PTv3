@@ -96,7 +96,7 @@ def main():
                 agent.update()
                 break
 
-    print("训练完成")
+    print("finished training")
 
 if __name__ == "__main__":
     main()
